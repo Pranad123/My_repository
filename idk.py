@@ -5,3 +5,4 @@ b.execute("select * from shuper")
 f = open("photo", 'a')
 for i in b:
    print(i)
+ #hello  
